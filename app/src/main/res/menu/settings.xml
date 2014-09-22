@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:activity="com.ajay.jenkinsjobdisplay.SettingsActivity" >
+    <item android:id="@+id/save_settings"
+        android:title="Save"
+        android:showAsAction="ifRoom" />
+</menu>

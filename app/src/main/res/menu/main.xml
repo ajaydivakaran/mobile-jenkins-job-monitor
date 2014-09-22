@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:activity=".MainActivity" >
+    <item android:id="@+id/jenkinsSettings"
+        android:title="Configure"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/refreshJobs"
+        android:title="Refresh"
+        android:showAsAction="ifRoom" />
+</menu>
